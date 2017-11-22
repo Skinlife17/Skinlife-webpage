@@ -20,19 +20,8 @@
             <li><a href="///Users/stella/Documents/Skinlife17.github.io/aboutus.html", href="#Aboutus">About us</a></li>
             <li><a href="///Users/stella/Documents/Skinlife17.github.io/product.html" href="#Products">Products</a></li>
             <li><a href="///Users/stella/Documents/Skinlife17.github.io/team.html" href="#Team">Team</a></li>
-            <li><a href="///Users/stella/Documents/Skinlife17.github.io/Contactus.html" href="#ContactUs">Contact Us</a></li>
+            <li><a href="#ContactUs">Contact Us</a></li>
         </ul>
 
-<div id='page_content'>
-
-         
-            <h1>About Us</h1>
-            <img src="https://www.ideaspace.cam.ac.uk/images/Mobile%20Capture">
-            <p>Skinlife helps you monitor and manage a skin condition from the comfort of your own home. No more waiting time to get an appointment with a dermatologist. No more the doctor forgetting your medical history. With Skinlife you can share quantified metrics produced from photos of your lesion tracked overtime for features like size, redness, depth and other metrics that your doctor will use combined with answers to simple followup questions to make a diagnosis remotely. Subsequently, you can pick up your prescription from your local pharmacy. </p>
-
-            <h2> Take control of your skin health. </h2>
-            <h1 id="content"> Join Skinlife </h1>
-
-</div>
 
 </body>
