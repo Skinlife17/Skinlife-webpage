@@ -1,1 +1,24 @@
 
+
+h1 {
+  font-family: Helvetica;
+  font-color: white;
+}
+
+body {
+      text-align: center;
+      background: url("https://web.netdirector.biz/wp-content/uploads/2016/05/shutterstock_131795594.jpg");
+      background-size: cover;
+      background-position: center;
+      color: white;
+      font-family: helvetica;
+    }
+
+input {
+        border: 0;
+        padding: 10px;
+        font-size: 18px;
+        input[type="submit"] {
+          font-color: white;
+          background-color: red;
+      }
