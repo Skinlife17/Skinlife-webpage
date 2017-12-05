@@ -1,0 +1,81 @@
+
+
+h1 {
+  font-family: Helvetica;
+  font-color: white;
+}
+
+body {
+      text-align: center;
+      background: url("https://ak3.picdn.net/shutterstock/videos/9707933/thumb/1.jpg?i10c=img.resize(height:160)");
+      background-size: cover;
+      background-position: center;
+      color: white;
+      font-family: helvetica;
+    }
+#navbar
+
+li a {
+    color: #666;
+}
+ul {
+	border: 1px solid #e7e7e7;
+    background-color: #f3f3f3;
+    list-style-type: none;
+    margin: 12px;
+    padding: 16px;
+    font-size: 20px;
+   
+}
+li a:hover {
+    background-color: #000;
+}
+ .active {
+    background-color: #00FFFF;
+}
+
+
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 10px 10px;
+    text-decoration: none;
+}
+
+p {margin: 40px;
+    padding: 16px;
+    font-size: 14px;
+
+}
+
+input[type=button], input[type=submit], input[type=reset] {
+    background-color: #4CAF50;
+    font-size: 14px;
+    border: none;
+    color: white;
+    padding: 12px 14px;
+    text-decoration: none;
+    margin: 4px 2px;
+    cursor: pointer;
+}
+
+#subject {
+  width:40%;
+  padding: 12px 20px;
+  box-sizing: border-box;
+  border: 2px solid #ccc;
+  border-radius: 4px;
+   background-color: #f8f8f8;
+    box-sizing: border-box;
+}
+
+#message {
+    width: 40%;
+    height: 150px;
+    padding: 12px 20px;
+    box-sizing: border-box;
+    border: 2px solid #ccc;
+    border-radius: 4px;
+    background-color: #f8f8f8;
+}
